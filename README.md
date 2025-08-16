@@ -62,9 +62,9 @@
 *Advanced LLM penetration testing framework with multi-endpoint architecture*
 
 🎯 **Key Features:**
-- Multi-endpoint setup for tester/target models
-- Successfully identified OWASP Top 10 LLM vulnerabilities (LLM01, LLM02, LLM05, LLM10)
-- Automated vulnerability detection and reporting
+Multi-endpoint setup for tester/target models
+Successfully identified OWASP Top 10 LLM vulnerabilities (LLM01, LLM02, LLM05, LLM10)
+Automated vulnerability detection and reporting
 
 </div>
 
