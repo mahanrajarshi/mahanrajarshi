@@ -8,9 +8,8 @@
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajarshimahan/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahanrajarshi)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/mahanrajarshi)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/rajarshi12)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajarshimahan01@gmail.com)
-[![Phone](https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918789559797)
 
 </div>
 
@@ -218,7 +217,6 @@
 - 📧 **Email:** [rajarshimahan01@gmail.com](mailto:rajarshimahan01@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/rajarshimahan](https://www.linkedin.com/in/rajarshimahan/)
 - 🐙 **GitHub:** [github.com/mahanrajarshi](https://github.com/mahanrajarshi)
-- 📱 **Phone:** [+91-8789559797](tel:+918789559797)
 
 </div>
 
