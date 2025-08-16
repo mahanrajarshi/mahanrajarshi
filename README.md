@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Rajarshi Mahan
-![Banner](./assets/banner.png)
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Cybersecurity+Professional;LLM+Security+Researcher;Penetration+Tester;VAPT+Specialist;Open+Source+Contributor" alt="Typing SVG" />
 </div>
