@@ -207,7 +207,6 @@
 - 📧 **Email:** rajarshimahan01@gmail.com
 - 💼 **LinkedIn:** [@rajarshimahan](https://www.linkedin.com/in/rajarshimahan/)
 - 🐙 **GitHub:** [@mahanrajarshi](https://github.com/mahanrajarshi)
-- 📱 **Phone:** +91-8789559797
 
 </div>
 
