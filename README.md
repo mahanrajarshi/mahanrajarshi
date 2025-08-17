@@ -30,7 +30,7 @@
 
 ## 💼 Professional Experience
 
-### 🎖️ **Army Cyber Group, Indian Army** | Cybersecurity Intern
+### 🎖️ **Integrated Headquarters of the Ministry of Defence** | Cybersecurity Intern
 **May – July 2025 | New Delhi**
 - Conducted comprehensive **VAPT** using Burp Suite, Nessus, and Acunetix
 - Identified **16+ critical web vulnerabilities** across military infrastructure
